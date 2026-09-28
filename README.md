@@ -3,9 +3,6 @@
 
 <h1 align="center">Anas Sadki</h1>
 
-<img width="768" height="1271" alt="1" src="https://github.com/user-attachments/assets/afe42d01-2833-4896-9577-b360df8b13eb" />
-
-
 <p align="center">
   <strong>Infrastructure & Network Penetration Tester | Offensive Security | Web Exploitation | Network & Systems</strong>
 </p>
